@@ -109,3 +109,4 @@ C:\Projects\StockManagament.API\StockManagament.API\obj\Debug\net8.0\refint\Stoc
 C:\Projects\StockManagament.API\StockManagament.API\obj\Debug\net8.0\StockManagament.API.pdb
 C:\Projects\StockManagament.API\StockManagament.API\obj\Debug\net8.0\StockManagament.API.genruntimeconfig.cache
 C:\Projects\StockManagament.API\StockManagament.API\obj\Debug\net8.0\ref\StockManagament.API.dll
+C:\Projects\StockManagament.API\StockManagament.API\obj\Debug\net8.0\StockManagament.API.sourcelink.json

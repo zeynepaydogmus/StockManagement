@@ -50,3 +50,5 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapGroup("/identity").MapIdentityApi<IdentityUser>();
+app.Run();
+
